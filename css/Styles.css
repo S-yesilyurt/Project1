@@ -1,0 +1,64 @@
+.heading{
+  font-size: 90%;
+  width: 65%;
+}
+body{
+  background-color: #F4F9F9;
+}
+
+.Angela {
+
+  background-color: #0F044C;
+  border-radius: 100%;
+  width: 65%;
+}
+
+hr {
+
+border-style: none;
+border-top-style: groove;
+border-width: 5px;
+width: 60%;
+
+}
+
+h1{
+  font-size: 400%;
+  font-style: oblique;
+  color: #0F044C;
+}
+h2{
+  font-size: 200%;
+  font-style: oblique;
+  color: #0F044C;
+}
+
+.Coursespicture {
+  border-style: none;
+  background-color: #F4F9F9;
+  width: 100%;
+  border-width: 20px;
+
+}
+
+a{
+  font-size: 100%;
+  color: #003638;
+}
+
+.tables {
+
+  font-size: 90%;
+  color: #0A1931;
+}
+
+.HeadText{
+  text-align: right;
+  font-size: 150%;
+}
+
+
+
+.AngelaHobbie{
+  font-size: 200%;
+}
